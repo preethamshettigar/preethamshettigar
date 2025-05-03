@@ -3,7 +3,7 @@
 ## :star: About me
 💻  I’m currently working as an Freelancer - AI Consultant, Basically I Help business to implement AI with help of Coding & No code Tools<br> 🤝 I’m looking for full-time AI/ML Software Engineer roles<br>🛠️ I’m currently learning and implementing full-stack applications of LLM,RAGs and AI Agent<br>💬 Ask me about scaling production-grade LLMs<br>⚡ Fun fact I'm Founder of Biodegradeable Water Bottle Product & I have mentored more than 100+ students on Robotics, IOT and Arduino Projects<br>🎓 Bachelors in Electronics & Communication Engineering
 
-## :star: Here are some of the tools, frameworks, and languages I've worked with 💻
+## :star: Here are some of the Tools, Frameworks and Languages I've worked with 💻
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
