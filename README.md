@@ -1,9 +1,8 @@
 ## Hi there, this is Preetham <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
 
-<br>
 ## :star: About me
 <br>
-💻  I’m currently working as an Freelancer - AI Consultant, Basically I Help business to implement AI with help of Coding & No code Tools ⚡<br> 🤝 I’m looking for full-time AI/ML Software Engineer roles<br>🛠️ I’m currently learning and implementing full-stack applications of LLM,RAGs and AI Agent<br>💬 Ask me about scaling production-grade LLMs<br>⚡ Fun fact I'm Founder of Biodegradeable Water Bottle Product, And I have mentored more than 100+ students on Robotics, IOT and Arduino Projects<br> 🧑‍🎓 Bachelors in Electronics & Communication Engineering<br>
+💻  I’m currently working as an Freelancer - AI Consultant, Basically I Help business to implement AI with help of Coding & No code Tools ⚡<br> 🤝 I’m looking for full-time AI/ML Software Engineer roles<br>🛠️ I’m currently learning and implementing full-stack applications of LLM,RAGs and AI Agent<br>💬 Ask me about scaling production-grade LLMs<br>⚡ Fun fact I'm Founder of Biodegradeable Water Bottle Product, And I have mentored more than 100+ students on Robotics, IOT and Arduino Projects<br> 🧑‍🎓 Bachelors in Electronics & Communication Engineering
 ## :star: Connect with me 🌐
 <p align="left"> <a href="https://www.linkedin.com/in/preetham-shettigar-73ai" target="_blank"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px></a> &nbsp;
 
